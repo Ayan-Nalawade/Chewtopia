@@ -166,7 +166,7 @@ function App() {
       <div className="min-h-screen flex items-center justify-center px-8">
         <div className="sand-animation max-w-[800px] w-full">
           <img 
-            src="https://i.imgur.com/z3qEj1n.png"
+            src="https://ibb.co/xmFB8F2"
             alt="Chewtopia Poster" 
             className="rounded-lg shadow-2xl border border-gray-800 w-full"
           />
